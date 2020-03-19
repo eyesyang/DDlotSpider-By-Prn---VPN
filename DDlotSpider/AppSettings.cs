@@ -14,8 +14,6 @@ namespace DDlotSpider
             get { return ConvertUtility.Trim(ConfigurationManager.ConnectionStrings["connStr"]); }
         }
 
-
-
         public static string StartUrl
         {
             get { return ConvertUtility.Trim(ConfigurationManager.AppSettings["startUrl"]); }
@@ -45,7 +43,6 @@ namespace DDlotSpider
         {
             get { return ConvertUtility.Trim(ConfigurationManager.AppSettings["appMode"]); }
         }
-
 
         public static string SearchUrl
         {
