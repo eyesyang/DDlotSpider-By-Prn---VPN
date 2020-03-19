@@ -66,10 +66,7 @@ namespace DDlotSpider
 
         public static string Machine
         {
-            get
-            {
-                return ConvertUtility.Trim(ConfigurationManager.AppSettings["Machine"]);
-            }
+            get { return ConvertUtility.Trim(ConfigurationManager.AppSettings["Machine"]); }
         }
 
         public static string VerifyImageName
@@ -84,10 +81,7 @@ namespace DDlotSpider
 
         public static int SleepTime
         {
-            get
-            {
-                return ConvertUtility.ToInt(ConfigurationManager.AppSettings["SleepTime"]);
-            }
+            get { return ConvertUtility.ToInt(ConfigurationManager.AppSettings["SleepTime"]); }
         }
 
         public static string AppId { get { return ConvertUtility.Trim(ConfigurationManager.AppSettings["app_id"]); } }
