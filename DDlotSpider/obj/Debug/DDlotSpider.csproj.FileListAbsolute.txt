@@ -1,0 +1,58 @@
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.Main.resources
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.Properties.Resources.resources
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.csproj.GenerateResource.cache
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.csproj.CoreCompileInputs.cache
+D:\linsenlin.proj\DDlotSpider\bin\Debug\DDlotSpider.exe.config
+D:\linsenlin.proj\DDlotSpider\bin\Debug\DDlotSpider.exe
+D:\linsenlin.proj\DDlotSpider\bin\Debug\DDlotSpider.pdb
+D:\linsenlin.proj\DDlotSpider\bin\Debug\CentaLine.Common.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\CentaLine.DataCommon.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Dapper.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Newtonsoft.Json.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\ChineseConverter.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\linsenlin.proj\DDlotSpider\bin\Debug\CentaLine.Common.pdb
+D:\linsenlin.proj\DDlotSpider\bin\Debug\CentaLine.DataCommon.pdb
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Dapper.xml
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Newtonsoft.Json.xml
+D:\linsenlin.proj\DDlotSpider\bin\Debug\ChineseConverter.xml
+D:\linsenlin.proj\DDlotSpider\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.csproj.CopyComplete
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.exe
+D:\linsenlin.proj\DDlotSpider\obj\Debug\DDlotSpider.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\DDlotSpider.exe.config
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.exe
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\DDlotSpider.exe
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\DDlotSpider.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Dapper.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Newtonsoft.Json.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\ChineseConverter.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\CentaLine.Common.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\CentaLine.DataCommon.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Dapper.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Newtonsoft.Json.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\ChineseConverter.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.Main.resources
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.Properties.Resources.resources
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.csproj.GenerateResource.Cache
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.csprojAssemblyReference.cache
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.csproj.CoreCompileInputs.cache
+D:\Tasks\Spider 抓手\DDlotSpider By Prn\DDlotSpider\obj\Debug\DDlotSpider.csproj.CopyComplete
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\DDlotSpider.exe.config
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.exe
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.csprojResolveAssemblyReference.cache
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.Main.resources
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.Properties.Resources.resources
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\obj\Debug\DDlotSpider.csproj.GenerateResource.Cache
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\DDlotSpider.exe
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\DDlotSpider.pdb
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\Dapper.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\DotRas.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\Newtonsoft.Json.dll
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\Dapper.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\DotRas.xml
+D:\Tasks\Spider 抓手\DDlotSpider By Prn - VPN\DDlotSpider\bin\Debug\Newtonsoft.Json.xml
